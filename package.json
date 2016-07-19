@@ -1,0 +1,28 @@
+{
+  "name": "hudson-prestidge-utils",
+  "version": "1.0.0",
+  "description": "A utility library",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hudson-prestidge/hudson-prestidge-utils.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hudson-prestidge/hudson-prestidge-utils/issues"
+  },
+  "homepage": "https://github.com/hudson-prestidge/hudson-prestidge-utils#readme",
+  "devDependencies": {
+    "colors": "^1.1.2",
+    "js-object-pretty-print": "^0.2.0",
+    "node-emoji": "^1.3.1"
+  }
+}
